@@ -1,45 +1,19 @@
 # CP04EDCCS
 
-<div align="center">
-  <br>
-  <h1>Sistema de Monitoramento de Condições Ambientais e de Estoque </h1>
-</div>
 
-<br>
-
-<table>
-  <tr>
-    <td>
-      <div>
-        <table>
-          <tr>
-            <th>Alunos:</th>
-          </tr>
-          <tr>
-            <th> Giovanna Franco Gaudino Rodrigues</th>
-          </tr>
-          <tr>
-            <th>Isabela Barcellos </th>
-          </tr>
-          <tr>
-            <th>Beatriz Dantas </th>
-          </tr>
-        </table>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Checkpoint 04 <br> Edge Computing & Computer Systems</b>
-      <td> <b>Objetivo → <br> Medir condições ambientais (luz, temperatura) e distância, fazer conexão como Node-red.</b> </td>
-      </div>
-    </td>
-  </tr>
-</table>
+Sistema de Monitoramento com IoT
 
 
+Alunas:
+Beatriz Dantas 
+Giovanna Franco Gaudino Rodrigues
+Isabela Barcellos 
+ 
+Checkpoint 04 - Edge Computing & Computer Systems
+Objetivo →  Medir condições ambientais (luz, temperatura) e distância, fazer conexão como Node-red.
 
-<div align="center">
-<b> - Tabela com o hardware do circuito no Arduino - Hands On </b>
+
+Tabela com o hardware do circuito no Arduino - Hands On:
 
 | Quantidade | Descrição                     |
 | ---------- | ----------------------------- |
@@ -51,25 +25,17 @@
 
 
 
-</div>
-
-<h2> Configuração </h2>
-
+Configuração:
 Conecte os componentes elétricos de forma adequada, caso tenha dúvidas, consulte a fotodo circuito.
 
+Software: 
+Para o desenvolvimento do projeto, foi usado a IDE: 
+https://www.arduino.cc/en/software
 
-<h2> Software </h2>
+Funcionamento: 
+1. Conecte os sensores conforme o esquema. 
+2. Conecte o Arduino. 
+3. Carregue o código no Arduino usando a IDE. 
+4. Observe as luzes dos LEDs e o som do buzzer de acordo com as condições. 
 
-<p> Para o desenvolvimento do projeto, foi usado a IDE: </p>
-
-<a href="https://www.arduino.cc/en/software"> Arduino IDE </a>
-
-<h2> Funcionamento  </h2>
-1. Conecte os sensores conforme o esquema. <br>
-2. Conecte o Arduino. <br>
-3. Carregue o código no Arduino usando a IDE. <br>
-4. Observe as luzes dos LEDs e o som do buzzer de acordo com as condições. <br>
-
-<br>
-
-⚠️ <b> Caso você use outras entradas para os componentes, favor lembrar de atualizar seu código com as entradas corretas. </b>
+⚠️ Caso você use outras entradas para os componentes, favor lembrar de atualizar seu código com as entradas corretas. 
