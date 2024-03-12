@@ -1,0 +1,75 @@
+# CP04EDCCS
+
+<div align="center">
+  <br>
+  <h1>Sistema de Monitoramento de Condições Ambientais e de Estoque </h1>
+</div>
+
+<br>
+
+<table>
+  <tr>
+    <td>
+      <div>
+        <table>
+          <tr>
+            <th>Alunos:</th>
+          </tr>
+          <tr>
+            <th> Giovanna Franco Gaudino Rodrigues</th>
+          </tr>
+          <tr>
+            <th>Isabela Barcellos </th>
+          </tr>
+          <tr>
+            <th>Beatriz Dantas </th>
+          </tr>
+        </table>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Checkpoint 04 <br> Edge Computing & Computer Systems</b>
+      <td> <b>Objetivo → <br> Medir condições ambientais (luz, temperatura) e distância, fazer conexão como Node-red.</b> </td>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+
+<div align="center">
+<b> - Tabela com o hardware do circuito no Arduino - Hands On </b>
+
+| Quantidade | Descrição                     |
+| ---------- | ----------------------------- |
+| 1          | Arduino Uno R3                |
+| 1          | 220 Ω Resistor                |
+| 1          | Fotorresistor (LDR)           |
+| 1          | DHT11                         |
+| 1          | Sensor Ultrassônico           |
+
+
+
+</div>
+
+<h2> Configuração </h2>
+
+Conecte os componentes elétricos de forma adequada, caso tenha dúvidas, consulte a fotodo circuito.
+
+
+<h2> Software </h2>
+
+<p> Para o desenvolvimento do projeto, foi usado a IDE: </p>
+
+<a href="https://www.arduino.cc/en/software"> Arduino IDE </a>
+
+<h2> Funcionamento  </h2>
+1. Conecte os sensores conforme o esquema. <br>
+2. Conecte o Arduino. <br>
+3. Carregue o código no Arduino usando a IDE. <br>
+4. Observe as luzes dos LEDs e o som do buzzer de acordo com as condições. <br>
+
+<br>
+
+⚠️ <b> Caso você use outras entradas para os componentes, favor lembrar de atualizar seu código com as entradas corretas. </b>
